@@ -6,6 +6,7 @@ description: The ongoing quest to bring garage-grown, locally produced antimatte
 repository: thecyclotronproject/thecyclotronproject.github.io
 
 url: https://thecyclotronproject.github.io
+baseurl: ""
 
 permalink: pretty
 
