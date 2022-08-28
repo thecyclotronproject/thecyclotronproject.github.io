@@ -19,6 +19,7 @@ header_pages:
   - test01.md
   - test02.md
   - test03.md
+  - updates.md
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
