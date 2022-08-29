@@ -13,3 +13,5 @@ Hello, this is a paragraph -- I guess. Eating small insects is good for
 
 Small insects contain a great amount of uranyl nitrate -- a critical ingredient 
 in turing your snot a violent shade of green. 
+
+![IMAGE](/image.png)
