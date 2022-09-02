@@ -1,17 +1,59 @@
 ---
 layout: page
-title: The Cyclotron Project - Homepage
+title: The Cyclotron Project
 ---
+#### The ongoing quest to bring garage-grown, locally produced antimatter to a random basement near you. 
 
-### Here's a little overview page or something
-Yup
+![IMAGE](/splash.jpg)
+
+# FAQs\: 
+
+## What is a cyclotron?
 
 
-Hello, this is a paragraph -- I guess. Eating small insects is good for
- the health of your toes. 
+A cyclotron is a form of particle accelerator which leverages the Lorentz force exerted on charged particles 
+moving in a magnetic field. This allows otherwise long beam-lines to be 'wound' into small volumes. As a result, cyclotrons 
+are often very compact compared to linear accelerators achieving similar energies. Our cyclotron has a target energy of 1.1MeV 
+(mega electron-volts) and fits in a garden shed! The space in which the particles circulate is a cylindrical chamber only 16" in diameter and 4" tall.
 
 
-Small insects contain a great amount of uranyl nitrate -- a critical ingredient 
-in turing your snot a violent shade of green. 
+## Why are you building one? 
 
-![IMAGE](/image.png)
+Why not build a particle accelerator in your back-yard? The project began in school, where a teacher asked us if we wanted to try building a cyclotron. They 
+were clearly ignorant to how much effort this would take, and we were too, but we started the project nonetheless. We are both extremely interested in physics,
+and so this was a natural project to pursue. We each possessed a useful subset of the skills needed, and we took this as an opportunity to develop those as well as
+build off one another's core competencies. 
+
+
+## What are the specs? 
+
+
+Our cyclotron is a small, 1.1MeV proton cyclotron with 14" diameter "dees." Our magnets produce a field of about 0.3T in the median plane. We have no azimuthal correction, so
+our energy is relativistically limited. Our vacuum target (not yet met) is 10e-5 torr. We use two mechanical pumps and one cryosorption pump to achieve this. 
+A comprehensive overview of all systems is coming to this website soon. 
+
+## What is left to do? 
+
+We currently have all subsystems running at some level or another, but we are yet to fully integrate all systems. The vacuum system needs to undergo a cryogenic test 
+before we can declare it complete. So far we have achieved 10e-3 torr, which is at the limit of our mechanical pumps. We will soon perform our first full cryogenic 
+test of the sorption pump, which will no-doubt reveal many smaller leaks that we will need to fix. 
+
+The magnets are functional to ~.1T, and need an improved rectifier before running them at higher field strengths. The magnets are a limiting aspect of the system, 
+as they are passively cooled and heat very quickly during operation.
+
+The RF oscillator is nearly complete, but needs an optocoupler installed to remove an unforeseen current path that we discovered during testing. Right now we 
+can run the oscillator at low voltages, but we need to install this additional component to reach our target peak to peak voltage of 1.2kV.
+
+
+## Where is this, is it safe? 
+
+  
+
+The setup takes up the left half of Reed Michael's garden shed, although the "whole" cyclotron is essentially the entire structure of the shed. 
+We designed the shed, in part, to contain the cyclotron – and it is certianly not your typical garden shed. We have a 12 kilowatt electrical connection divided
+ between two 120V AC circuits and a 240V AC circuit. The entire shed is also a Faraday cage, and all of the electrical lines are run underground to minimize RF 
+leakage. Our biggest risk is fire, which is mitigated by accessible fire extinguishers and appropriate thermal control. Everything is controlled via a server running 
+fault tolerant Linux and, of course, we have a mechanical power disconnect. When running, the cyclotron will also be an X-ray source. We have plans to
+ cover the chamber in lead foil, and we have a personal dosimeter and will have dosimeters in and outside of the shed. Everything is controlled from a distance over a wireless
+ link (with mechanical shutoffs). 
+ 
