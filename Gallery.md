@@ -18,7 +18,7 @@ permalink: /Gallery-link/
 ![Magnet test with yoke](/C85851B5-FCEB-4DD2-8F91-44C02429E17A.JPG)
 
 ### Nitrogen plasma visible in the prototype ion source under low vacuum (2022) 
-![Nitrogen plasma in prototype ion source](/cachedImage.png)
+![Nitrogen plasma in prototype ion source](/cachedImage.PNG)
 
 ### Motorized magnet driver (2022)
 ![Motorized magnet driver](/MagnetDriver.jpg)
