@@ -17,7 +17,7 @@ show_excerpts: false
 # Hey Reed, add pages here, you need to create markdown files for each one. It's YAML, so just follow the format.
 header_pages:
   - Gallery.md
-  - test02.md
+  - vacuum.md
   - test03.md
   - updates.md
 plugins:
