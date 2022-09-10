@@ -18,7 +18,7 @@ show_excerpts: false
 header_pages:
   - Gallery.md
   - vacuum.md
-  - test03.md
+  - magnets.md
   - updates.md
 plugins:
   - jekyll-feed
