@@ -14,7 +14,9 @@ The operational pump has a minimum operating pressure of 10e-3 torr as set by th
 minimum pressure, allowing our cryosorption pump to pull out much of the remaining gas. Cryosorption pumps 
 (or just “sorption” pumps) are designed to be cooled down to very low temperatures (below 77K or the boiling point of 
 liquid nitrogen) so that residual gas can condense on a high surface area material in their interior. Our pump is 
-filled with zeolite pellets, a high surface area ceramic. 
+filled with zeolite pellets, a high surface area ceramic. A photo of the sorption pump in its nitrogen bath is below: 
+
+![bath](/assets\pumpBath.jpg)
 
 
 ## Design considerations
@@ -33,8 +35,9 @@ the CF type and – although rated to 10e-7 torr – we are pushing the limits o
 
 The performance of high and ultrahigh vacuum systems is somewhat dependent on their geometry. 
 This is due to the extremely low gas densities encountered in the high and ultrahigh vacuum regimes;
- essentially we must deal with billiard balls (gas molecules) rather than a continuous fluid. The particles in 
-the gas behave very independent of one another, and so they begin to interact primarily with the walls of the 
+ the mean free path is large enough that we are essentially we dealing with billiard balls (gas molecules) rather than a continuous fluid. 
+The particles in 
+the gas behave independently of one another, and so they begin to interact primarily with the walls of the 
 vacuum system itself. Thus, it is important to design the system so that it geometrically directs gas into the
  vacuum pump inlets. Ideally, we would have the chamber directly open to the inlet of a cryosorption pump or a 
 turbomolecular pump (a very nice but *extremely* expensive form of vacuum pump) so that there is a direct path
