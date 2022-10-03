@@ -26,3 +26,12 @@ permalink: /Gallery-link/
 ### Everything assembled inside *The Shed* (2022)
 ![Everything assembled inside the shed](/splash.jpg) 
 Ooh, look at *all those power supplies!*
+
+
+### Pouring liquid nitrogen onto the sorption pump (2022)
+
+![Pouring liquid nitrogen onto the sorption pump](/assets\pour.jpg)
+
+### A reduced vacuum system undergoing a cryogenic test (2022)
+
+![A reduced vacuum system undergoing a cryogenic test ](/assets\vacSysTest.jpg)
