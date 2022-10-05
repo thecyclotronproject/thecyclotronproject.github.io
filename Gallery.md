@@ -30,8 +30,8 @@ Ooh, look at *all those power supplies!*
 
 ### Pouring liquid nitrogen onto the sorption pump (2022)
 
-![Pouring liquid nitrogen onto the sorption pump](/assets\pour.jpg)
+![Pouring liquid nitrogen onto the sorption pump](/assets/Pour.jpg)
 
 ### A reduced vacuum system undergoing a cryogenic test (2022)
 
-![A reduced vacuum system undergoing a cryogenic test ](/assets\vacSysTest.jpg)
+![A reduced vacuum system undergoing a cryogenic test ](/assets/vacSysTest.JPG)
