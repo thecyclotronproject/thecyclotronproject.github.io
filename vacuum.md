@@ -16,7 +16,7 @@ minimum pressure, allowing our cryosorption pump to pull out much of the remaini
 liquid nitrogen) so that residual gas can condense on a high surface area material in their interior. Our pump is 
 filled with zeolite pellets, a high surface area ceramic. A photo of the sorption pump in its nitrogen bath is below: 
 
-![bath](/assets\pumpBath.jpg)
+![bath](/assets/pumpBath.jpg)
 
 
 ## Design considerations
