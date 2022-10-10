@@ -27,15 +27,14 @@ build off one another's core competencies.
 
 ## What is left to do? 
 
-We currently have all subsystems running at some level or another, but we are yet to fully integrate all systems. The vacuum system needs to undergo a cryogenic test 
-before we can declare it complete. So far we have achieved 10e-3 torr, which is at the limit of our mechanical pumps. We will soon perform our first full cryogenic 
-test of the sorption pump, which will no-doubt reveal many smaller leaks that we will need to fix. 
+We currently have all subsystems running at some level or another, but we are yet to fully integrate all systems. The vacuum system needs to undergo a second cryogenic test 
+before we can declare it complete. We recently fixed some leaks and replaced one of our isolation valves, so those changes need to be tested in concert with the sorption pump. 
+So far we have achieved ~10<sup>-4</sup> torr, which we will soon lower with another cryogenic test. 
 
 The magnets are functional to ~.1T, and need an improved rectifier before running them at higher field strengths. The magnets are a limiting aspect of the system, 
 as they are passively cooled and heat very quickly during operation.
 
-The RF oscillator is nearly complete, but needs an optocoupler installed to remove an unforeseen current path that we discovered during testing. Right now we 
-can run the oscillator at low voltages, but we need to install this additional component to reach our target peak to peak voltage of 1.2kV.
+The RF oscillator is complete but needs additional testing at higher amplitudes. Our target peak to peak amplitude is 1.2kV.
 
 
 ## Where is this, is it safe? 

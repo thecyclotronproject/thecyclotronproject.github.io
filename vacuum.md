@@ -9,7 +9,8 @@ permalink: /vacuum-link/
 
 Our vacuum target is 10e-5 torr, which we are achieving using a combination of mechanical and cryogenic pumps.
  We have two rotary vane pumps, one of which is currently out of service due to an oil leak which we are yet to fix. 
-The operational pump has a minimum operating pressure of 10e-3 torr as set by the vapor pressure of the oil. Our vacuum
+The operational pump has an advertised minimum operating pressure of 10<sup>-3</sup> torr as set by the vapor pressure of the oil. 
+This number is optimistic, to say the least. Our vacuum
  manifold is designed such that the mechanical pumps can be isolated from the vacuum chamber once they have hit their 
 minimum pressure, allowing our cryosorption pump to pull out much of the remaining gas. Cryosorption pumps 
 (or just “sorption” pumps) are designed to be cooled down to very low temperatures (below 77K or the boiling point of 
@@ -38,7 +39,7 @@ This is due to the extremely low gas densities encountered in the high and ultra
  the mean free path is large enough that we are essentially we dealing with billiard balls (gas molecules) rather than a continuous fluid. 
 The particles in 
 the gas behave independently of one another, and so they begin to interact primarily with the walls of the 
-vacuum system itself. Thus, it is important to design the system so that it geometrically directs gas into the
+vacuum system itself. Thus, it is important to design the system so that it directs gas into the
  vacuum pump inlets. Ideally, we would have the chamber directly open to the inlet of a cryosorption pump or a 
 turbomolecular pump (a very nice but *extremely* expensive form of vacuum pump) so that there is a direct path
  from the median plane (where we don’t want any gas) to the pump (where we trap or expel the gas). We have two 
@@ -52,10 +53,11 @@ pressure at the median plane.
 
 2) The mechanical pump inlets are located near the gauges and can be isolated from the system. 
 This allows for easy leak detection (the isolation valves have been a source of leaks for us) and for us to 
-transition from mechanical pumping to cryopumping  – facilitating higher vacuum levels. 
+transition from mechanical pumping to cryopumping  – facilitating higher vacuums. 
 
 
-Below is an image of the majority of the vacuum system (the mechanical pumps and many of the chamber flanges are excluded).
+Below is an image of the majority of the vacuum system (the mechanical pumps and many of the chamber flanges are excluded). 
+This is very different from our current configuration, though. Images of the new configuration are coming soon. 
 
 ![Vacuum Layout](/vacuumLayout.jpg)
 
