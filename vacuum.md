@@ -17,16 +17,16 @@ minimum pressure, allowing our cryosorption pump to pull out much of the remaini
 liquid nitrogen) so that residual gas can condense on a high surface area material in their interior. Our pump is 
 filled with zeolite pellets, a high surface area ceramic. A photo of the sorption pump in its nitrogen bath is below: 
 
-![bath](/assets/pumpBath.JPG)
+![bath](/assets/pumpBath.jpg)
 
 
 #### The sorption pump during our most recent cryogenic test. The blanket is for extra insulation. 
-![chill](/assets/Chill.JPG)
+![chill](/assets/Chill.jpg)
 
 
 #### A normal vacuum pumpdown profile (normal, except for the mediocre final vacuum). 
 
-![vacuum profile](/assets/Profile.JPG)
+![vacuum profile](/assets/Profile.jpg)
 
 
 ## Design considerations
