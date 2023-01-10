@@ -4,7 +4,7 @@ title: The Magnets
 permalink: /magnets-link/
 ---
 
-### “The best unit for quantifying fire risk is the Tesla” 
+### “The best unit for quantifying fire risk is the Tesla” -Reed Michael 
 
 
 
@@ -15,7 +15,7 @@ permalink: /magnets-link/
 
 The magnets make up one of three critical subsystems in a cyclotron. They generate the magnetic 
 field for containing the particles and they present a host of interesting engineering challenges. Our magnets 
-are designed to run up to 0.03T, and they are by no means efficient at doing this. Inefficiencies are the primary 
+are designed to run up to 0.3T, and they are by no means efficient at doing this. Inefficiencies are the primary 
 opponent when designing huge electromagnets like these. If we were operating on a large budget, we would make all 
 of our design decisions with respect to two quantities: magnetic field strength and heat generation/dissipation. 
 As we pump high currents through the windings of the magnets, they heat excessively. We currently don’t have any

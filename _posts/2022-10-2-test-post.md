@@ -3,14 +3,15 @@ layout: post
 title: Cryopump Test 10/2/22
 ---
 We were recently able to test our cryosorption pump in full, 
-and managed to pull the vacuum system to 5&middot; 10<sup> -4</sup> torr. 
+and managed to pull the vacuum system to 5&middot; 10<sup> -3</sup> torr. 
 Our test revealed several things which were previously hidden to us at higher pressures, 
 the most obvious of which was a leak in one of our isolation valves. We attempted to clean the valve 
 (which was horribly dirty from whatever previous function it served) but in the process we introduced a
  more substantial leak. We also believe we hit the ultimate vacuum we could attain without flushing the
  chamber with dry nitrogen before pumping, as our final vacuum was close to the partial pressure of 
-argon in the chamber at the time of mechanical pump shutoff. This was difficult to confirm, though,
- as we have no means to analyze the composition of the gas in the chamber under vacuum. 
+argon in the chamber at the time of mechanical pump shutoff [UPDATE: we now no longer believe this is the case]. ~~This was difficult to confirm, though,
+ as we have no means to analyze the composition of the gas in the chamber under vacuum.~~ [We now believe we were dealing with outgassing and a leak in the isolation valve 
+(which was more severe than previously understood)]
 
 ### Below is an image of the reduced vacuum system during the test. 
 
