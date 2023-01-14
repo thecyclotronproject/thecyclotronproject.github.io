@@ -4,6 +4,11 @@ title: The Cyclotron Project
 ---
 #### The ongoing quest to bring garage-grown, locally produced antimatter to a random basement near you. 
 
+## What is the goal? 
+
+Although we have a number of experiments in mind, our threshold goal is to produce positrons. 
+We should be able to do this with beam energies exceeding 1.1MeV. 
+
 ![IMAGE](/General.jpg)
 
 # FAQs\: 
