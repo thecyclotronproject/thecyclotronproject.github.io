@@ -20,6 +20,7 @@ header_pages:
   - vacuum.md
   - magnets.md
   - updates.md
+  - thanks.md
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
