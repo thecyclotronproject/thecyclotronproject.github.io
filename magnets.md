@@ -29,13 +29,14 @@ the large o-rings sealing the top and bottom of the main chamber).
 The magnets are run using two Variac variable transformers – one for each magnet. The output of each transformer is rectified 
 and fed to the coil. It is very important that we regulate the magnets carefully and that they can be controlled independently 
 – varying the field characteristics in the median plane. As this must be done remotely, we drive the Variacs using stepper motors 
-controlled using an Arduino which is networked to the rest of the system. 
+controlled via an Arduino which is networked to the rest of the system. 
 
-![Magnet Driver](/MagnetDriver.jpg)
+![Magnet Driver](/magnetDriverFinished.jpg)
 
 
-For monitoring, we have magnetic hall effect sensors in the median plane and near our ion gauge (a magnetically sensitive component).
- Thermocouples are attached to each magnet as well which give us the temperature of each magnet individually and trigger an automatic shutoff 
+The rectifier circuit uses two independent rectifier modules and smoothing capacitors. All connections were made with .25" copper tube to minimize the voltage drop between the variacs and magnet coils. 
+
+ We have attached thermocouples to each magnet which give us the temperature of each magnet individually and trigger an automatic shutoff 
 if either magnet begins to overheat.
 
 
