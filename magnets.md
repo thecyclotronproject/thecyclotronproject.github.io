@@ -31,7 +31,7 @@ and fed to the coil. It is very important that we regulate the magnets carefully
 – varying the field characteristics in the median plane. As this must be done remotely, we drive the Variacs using stepper motors 
 controlled via an Arduino which is networked to the rest of the system. 
 
-![Magnet Driver](/magnetDriverFinished.jpg)
+![Magnet Driver](/magnetDriversFinished.jpg)
 
 
 The rectifier circuit uses two independent rectifier modules and smoothing capacitors. All connections were made with .25" copper tube to minimize the voltage drop between the variacs and magnet coils. 
