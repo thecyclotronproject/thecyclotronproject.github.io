@@ -38,3 +38,6 @@ permalink: /thanks-link/
 
 ### Thomas C. 
 #### who generously donated a number of miscellaneous components – including the Variac transformers we use for driving the magnets. 
+
+### Eric G. 
+#### who generously donated the aluminum used for the vacuum chamber. 
