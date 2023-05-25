@@ -6,6 +6,9 @@ permalink: /thanks-link/
 
 ## Our progress is funded entirely by the generosity of others. We would like to thank the following people, without whom the project would have never been possible. 
 
+### Mike P. 
+#### who graciously donated his skill, time, and material to manufacture our "dummy dee" and an additional vacuum component. 
+
 ### Max M.
 #### who supported our project in its infancy and helped us organize our time and resources in the beginning.
 
