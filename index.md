@@ -2,6 +2,18 @@
 layout: page
 title: The Cyclotron Project
 ---
+
+###Update: 11/12/2024
+
+As of 11/12/2024 this website is sorely out of date. We have made significant progress on the vacuum system and ion source and are in the process of validating both of the new systems. We are also working on producing an extensive set of documentation regarding the detailed design of the cyclotron and proper SOPs. We've also adjusted our target specs to conform to the systems we have actually constructed and validated (for example, we've revised our target beam energy to 60KeV due to incidental radiation concerns). 
+
+
+More information will be coming to this website soon. 
+
+Regards, 
+
+The Cyclotron Team  
+
 #### The ongoing quest to bring garage-grown, locally produced antimatter to a random basement near you. 
 
 ## What is the goal? 
