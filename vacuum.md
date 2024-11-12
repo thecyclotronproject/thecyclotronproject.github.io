@@ -6,19 +6,32 @@ permalink: /vacuum-link/
 
 ## Our vacuum target
 
-We determined our vacuum target through a statistical beam-loss analysis. Ideally, every proton that enters the dees through the ion source will collide with the target at exactly the energy we would hope. Unfortunately, such aspirations are unreasonable because of the impossibility of removing all of the atmospheric gas (and gas we introduce through the ion source) from the chamber. Beam particles are doomed to scatter off these residual gas molecules and we can assume that most of these scattering events fatally eject protons from the beam. By analyzing these scattering events statistically, we are able to determine the fraction of the beam that we expect to lose at a given chamber pressure and acceleration voltage. That plot is shown below, and the result is a vacuum target somewhere between 10<sup>-4</sup> and 10<sup>-5</sup> torr. 
+We determined our vacuum target through a statistical beam-loss analysis. Ideally, every proton that enters the dees through the ion source will collide with the target at exactly the energy we would hope. Unfortunately, such aspirations are unreasonable because of the impossibility of removing all of the atmospheric gas (and gas we introduce through the ion source) from the chamber. Beam particles are doomed to scatter off these residual gas molecules and we can assume that most of these scattering events fatally eject protons from the beam. By analyzing these scattering events statistically we can determine the fraction of the beam that we expect to lose at a given chamber pressure and acceleration voltage. That plot is shown below, and the result is a vacuum target somewhere between 10<sup>-4</sup> and 10<sup>-5</sup> torr. 
 
      
 ![bath](/assets/PRessureLossCurvevoltage.png)
 
 ## About the vacuum system [now out of date, 11/12/2024]
 
+---
 
-Our vacuum target is 10<sup>-5</sup> torr, which we will achieve using a combination of mechanical and cryogenic pumps.
- We have two rotary vane pumps, one of which is currently out of service due to an oil leak which we are yet to fix. 
-The operational pump has an advertised minimum operating pressure of 10<sup>-3</sup> torr as set by the vapor pressure of the oil. 
-This number is optimistic, to say the least. Our vacuum
- manifold is designed such that the mechanical pumps can be isolated from the vacuum chamber once they have hit their 
+### Recent updates: 05/2024
+
+We have recently switched from using a cryosorption pump to an oil diffusion pump for finishing. The sorption pump was simply too expensive to operate, despite its simplicity and low overhead cost. Each test required a substantial quantity of liquid nitrogen which had to be purchased expressly for the purpose of the test at hand because we are unable to store it for long periods on-site. It is frequently months between tests and we would like to be able to iterate without purchasing many liters of liquid nitrogen  each occasion we test.
+
+
+---
+
+We will achieve our vacuum target using a combination of pumps. We have a Varian SD-90 rotary vane pump for roughing and a diffusion pump (of unknown model) for finishing. 
+ 
+Our rotary vane pump was acquired secondhand and is in need of a thorough cleanup but we hope it will be able to reach 10<sup>-3</sup> torr.  
+
+
+
+## Historical design: cryosorption 
+
+
+Our vacuum manifold is designed such that the mechanical pumps can be isolated from the vacuum chamber once they have hit their 
 minimum pressure, allowing our cryosorption pump to pull out much of the remaining gas. Cryosorption pumps 
 (or just “sorption” pumps) are designed to be cooled down to very low temperatures (below 77K, the boiling point of 
 liquid nitrogen) so that residual gas can condense on a high surface area material in their interior. Our pump is 
