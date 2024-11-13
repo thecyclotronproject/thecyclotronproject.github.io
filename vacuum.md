@@ -26,6 +26,9 @@ We will achieve our vacuum target using a combination of pumps. We have a Varian
  
 Our rotary vane pump was acquired secondhand and is in need of a thorough cleanup but we hope it will be able to reach 10<sup>-3</sup> torr.  
 
+![bath](/assets/Diff.JPG)   ![bath](/assets/Pump.png)
+
+
 
 
 ## Historical design: cryosorption 
