@@ -21,6 +21,7 @@ header_pages:
   - magnets.md
   - updates.md
   - thanks.md
+  - ion.md
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

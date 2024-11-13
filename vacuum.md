@@ -9,7 +9,7 @@ permalink: /vacuum-link/
 We determined our vacuum target through a statistical beam-loss analysis. Ideally, every proton that enters the dees through the ion source will collide with the target at exactly the energy we would hope. Unfortunately, such aspirations are unreasonable because of the impossibility of removing all of the atmospheric gas (and gas we introduce through the ion source) from the chamber. Beam particles are doomed to scatter off these residual gas molecules and we can assume that most of these scattering events fatally eject protons from the beam. By analyzing these scattering events statistically we can determine the fraction of the beam that we expect to lose at a given chamber pressure and acceleration voltage. That plot is shown below, and the result is a vacuum target somewhere between 10<sup>-4</sup> and 10<sup>-5</sup> torr. 
 
      
-![bath](/assets/PRessureLossCurvevoltage.png)
+![PressureCurve](/assets/PRessureLossCurvevoltage.png)
 
 ## About the vacuum system [now out of date, 11/12/2024]
 
@@ -26,7 +26,8 @@ We will achieve our vacuum target using a combination of pumps. We have a Varian
  
 Our rotary vane pump was acquired secondhand and is in need of a thorough cleanup but we hope it will be able to reach 10<sup>-3</sup> torr.  
 
-![bath](/assets/Diff.JPG)   ![bath](/assets/Pump.png)
+![DiffPump](/assets/Diff.JPG)   
+![DiffPump1](/assets/Pump.png)
 
 
 
