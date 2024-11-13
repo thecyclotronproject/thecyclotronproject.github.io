@@ -3,7 +3,10 @@ layout: page
 title: The Cyclotron Project
 ---
 
+
 ### Update: 11/12/2024
+
+---
 
 As of 11/12/2024 this website is sorely out of date. We have made significant progress on the vacuum system and ion source and are in the process of validating both of the new systems. We are also working on producing an extensive set of documentation regarding the detailed design of the cyclotron and proper SOPs. We've also adjusted our target specs to conform to the systems we have actually constructed and validated (for example, we've revised our target beam energy to 60KeV due to incidental radiation concerns). 
 
@@ -13,7 +16,8 @@ More information will be coming to this website soon.
 Regards, 
 
 The Cyclotron Team  
- 
+
+--- 
 
 ## What is the goal? 
 
@@ -124,7 +128,7 @@ The RF oscillator is complete but needs additional testing at higher amplitudes.
   
 
 The setup takes up the left half of Reed Michael's garden shed, although the "whole" cyclotron essentially inhabits the entirety of *The Shed*. 
-We designed *The Shed*, in part, to contain the cyclotron – and it is certianly not your typical garden shed. We have a 12 kilowatt electrical connection divided
+We designed *The Shed*, in part, to contain the cyclotron – and it is certainly not your typical garden shed. We have a 12 kilowatt electrical connection divided
  between two 120V AC circuits and a 240V AC circuit. *The Shed* is also a Faraday cage, and all of the electrical lines are run underground to minimize RF 
 leakage. Our greatest risk is fire, which is mitigated by accessible fire extinguishers and appropriate thermal control. Everything is controlled via a server running 
 fault tolerant Linux and, of course, we have a mechanical power disconnect. When running, the cyclotron will also be an X-ray source. We have plans to
