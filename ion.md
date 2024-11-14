@@ -1,6 +1,6 @@
 ---
 layout: page
-title: H^+^ source
+title: H+ source
 permalink: /ion-link/
 ---
 
