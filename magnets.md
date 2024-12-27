@@ -7,7 +7,7 @@ permalink: /magnets-link/
 ### “The best unit for quantifying our fire risk is the Tesla” -Reed Michael 
 
 
-![New magnet image]("/assets/magnetsImg.JPG")
+![New magnet image](/assets/magnetsImg.JPG)
 
 ![The magnets](/magnets.jpg)
 
@@ -53,10 +53,10 @@ One of the components of our magnet test campaign is mapping the field shape in 
 
 The mapper prototype consists of an array of six hall effect sensors spaced evenly along an arm which can rotate around the median plane. The sensors are read out by an Arduino and the data is fed into python for analysis. The prototype is shown below, along with a qualitative plot of the first results. 
 
-![The mapper]("/assets/mapper.jpg")
+![The mapper](/assets/mapper.jpg)
 
 
-![The map]("/assets/magnetMap.png")
+![The map](/assets/magnetMap.png)
 
 (pardon the lack of units, this test was primarily to recover qualitative information about the performance of the mapper and not to accurately map the magnets) 
 
