@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thank You to Our Supporters! 
+title: Thanks to Supporters! 
 permalink: /thanks-link/
 ---
 
