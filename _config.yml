@@ -19,10 +19,10 @@ header_pages:
   - Gallery.md
   - vacuum.md
   - magnets.md
-  - updates.md
   - ion.md
   - dees.md
   - thanks.md
+  - updates.md
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

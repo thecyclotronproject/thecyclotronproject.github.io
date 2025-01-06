@@ -6,6 +6,15 @@ permalink: /Gallery-link/
 
 ## A gallery of images of the cyclotron, and its components, in various stages of development
 
+### The vacuum chamber (without associated components) in the magnets (2023)
+
+![Cyclotron magnets with vacuum chamber](/assets/InPlace.JPG)
+
+### Measuring the capacitance of the chamber (2023)
+
+![O-Scope and chamber](/assets/Capacitance.jpg)
+
+
 ### The vacuum system and dees together (2020)
 ![Cyclotron vacuum chamber with lid open](/6A1D4466-DB92-4DEF-B291-A857D2C990A8.JPG) 
 
