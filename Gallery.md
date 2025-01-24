@@ -14,6 +14,12 @@ permalink: /Gallery-link/
 
 ![O-Scope and chamber](/assets/Capacitance.jpg)
 
+### A rudimentary map of the magnetic field in the median plane from the mapper prototype (sensor 2 is dead) (2024).  
+![magnet map heatmap plot](/assets/magnetMap.png)
+
+### Connection between dee and RF feed (2024)
+
+![dee feed junction](/assets/DeeClamp.JPG)
 
 ### The vacuum system and dees together (2020)
 ![Cyclotron vacuum chamber with lid open](/6A1D4466-DB92-4DEF-B291-A857D2C990A8.JPG) 
